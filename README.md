@@ -1,3 +1,7 @@
+# 🛢️ HPCL IS Exam Preparation
+
+A comprehensive, browser-based study resource for candidates preparing for the **HPCL (Hindustan Petroleum Corporation Limited) Information Systems (IS) Officer** exam. All content is packaged in a single `index.html` file — no installation or internet connection required after download.
+
 ---
 
 ## 📖 Topics Covered
@@ -18,8 +22,10 @@
 ```bash
    git clone https://github.com/yashgoel021004/HPCL_IS_EXAM.git
 ```
-2. Navigate to the relevant topic folder.
-3. Study the notes and attempt practice questions.
+2. Open `index.html` directly in any modern web browser.
+3. Navigate through topics and attempt practice questions.
+
+> No server setup or dependencies needed — works completely offline.
 
 ---
 
